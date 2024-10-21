@@ -21,4 +21,4 @@ Training Loop: The agent learns over multiple episodes by interacting with the e
 Evaluation: The notebook includes functions to evaluate the agent's performance, calculating the average score over 100 episodes.
 
 Demo:
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/rDrayBen/Machine_learning_Qlearning/blob/main/QL-demo.gif)
